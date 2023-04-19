@@ -1,5 +1,5 @@
-### Olá, meu nome é Kênnya, sou formada em Designer de Interiores. 
-Atualmente trabalhando como entregadora parceira do Ifood e estudando Programação com foco em Backend.
+### Olá, meu nome é Kênnya, sou desenvolvedora de software. 
+Atualmente trabalhando como entregadora parceira do Ifood e estudando Programação, com foco em Backend.
 Transição de carreira sempre será um desafio, mas se tornou um desafio gostoso com a ajuda da Cubos Academy.👋
 
 <!--
