@@ -3,6 +3,7 @@ Em transição de carreira para a área de tecnologia, concluí o curso de Backe
 Atualmente trabalhando como entregadora parceira do Ifood e estudando Frontend na Devmedia.👋
 
 Marvete e Kpoper, posso falar por horas sobre os dois assuntos até te entediar!
+
 Sou apaixonada por dança, e um dos meus hobbies é fingir que sei dançar na frente do espelho.
 
 ## Social Media
