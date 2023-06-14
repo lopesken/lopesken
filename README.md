@@ -1,6 +1,9 @@
-## Olá, meu nome é Kênnya, e sou DEV backend. 
-Atualmente trabalhando como entregadora parceira do Ifood e estudando Programação, com foco em Backend.
-Transição de carreira sempre será um desafio, mas se tornou um desafio gostoso com a ajuda da Cubos Academy.👋
+## Olá, meu nome é Kênnya, e sou DEV. 
+Em transição de carreira para a área de tecnologia, concluí o curso de Backend em maio de 2023, pela Cubos Academy.
+Atualmente trabalhando como entregadora parceira do Ifood e estudando Frontend na Devmedia.👋
+
+Marvete e Kpoper, posso falar por horas sobre os dois assuntos até te entediar!
+Sou apaixonada por dança, e um dos meus hobbies é fingir que sei dançar na frente do espelho.
 
 ## Social Media
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennya-lopes-andre/)
